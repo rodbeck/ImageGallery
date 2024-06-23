@@ -18,6 +18,7 @@
 		18878F242C2843DF00C6DA21 /* PhotoPicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18878F232C2843DF00C6DA21 /* PhotoPicker.swift */; };
 		18878F272C2843F000C6DA21 /* ColumnStepper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18878F252C2843F000C6DA21 /* ColumnStepper.swift */; };
 		18878F282C2843F000C6DA21 /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18878F262C2843F000C6DA21 /* DetailView.swift */; };
+		18878F2A2C286C7800C6DA21 /* License.txt in Resources */ = {isa = PBXBuildFile; fileRef = 18878F292C286C7800C6DA21 /* License.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,6 +34,7 @@
 		18878F232C2843DF00C6DA21 /* PhotoPicker.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PhotoPicker.swift; sourceTree = "<group>"; };
 		18878F252C2843F000C6DA21 /* ColumnStepper.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ColumnStepper.swift; sourceTree = "<group>"; };
 		18878F262C2843F000C6DA21 /* DetailView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
+		18878F292C286C7800C6DA21 /* License.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = License.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -49,6 +51,7 @@
 		18878EFF2C28044400C6DA21 = {
 			isa = PBXGroup;
 			children = (
+				18878F292C286C7800C6DA21 /* License.txt */,
 				18878F0A2C28044400C6DA21 /* ImageGallery */,
 				18878F092C28044400C6DA21 /* Products */,
 			);
@@ -164,6 +167,7 @@
 			files = (
 				18878F132C28044500C6DA21 /* Preview Assets.xcassets in Resources */,
 				18878F102C28044500C6DA21 /* Assets.xcassets in Resources */,
+				18878F2A2C286C7800C6DA21 /* License.txt in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
